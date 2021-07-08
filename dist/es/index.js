@@ -1,6 +1,6 @@
 console.log("WOW!");
 
-const ret=()=>{
+function ret(){
     console.log("WOW!");
     return 44
 }
