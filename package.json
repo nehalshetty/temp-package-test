@@ -1,0 +1,11 @@
+{
+  "name": "console-logger",
+  "version": "1.0.0",
+  "description": "Temp package",
+  "main": "./dist/es/index.js",
+  "scripts": {
+    "start": "node ./dist/es/index.js"
+  },
+  "author": "Nrs",
+  "license": "ISC"
+}
