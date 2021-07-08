@@ -1,6 +1,6 @@
 console.log("WOW!");
 
-function ret(){
+var ret = function(){
     console.log("WOW!");
     return 44
 }

@@ -1,6 +1,6 @@
 {
   "name": "@first-org/console-logger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Temp package",
   "main": "./dist/es/index.js",
   "module": "./dist/es/es.js",
